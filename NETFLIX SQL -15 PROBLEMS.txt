@@ -1,0 +1,112 @@
+NETFLIX SQL PROJECT – 15 BUSINESS PROBLEMS
+
+CORE ANALYSIS
+
+1. Count the Number of Movies vs TV Shows
+
+Business Problem:
+Analyze the distribution of content types available on Netflix and determine whether Movies or TV Shows dominate the platform.
+
+------------------------------------------------------------
+
+2. Find the Most Common Rating for Movies and TV Shows
+
+Business Problem:
+Identify the most frequently used content rating for each content type (Movie and TV Show) to understand Netflix's target audience.
+
+------------------------------------------------------------
+
+3. Find the Top 5 Countries with the Highest Number of Titles on Netflix
+
+Business Problem:
+Determine which countries contribute the most content to Netflix's catalog.
+
+------------------------------------------------------------
+
+4. Identify the Longest Movie Available on Netflix
+
+Business Problem:
+Find the movie with the highest duration and analyze long-form content availability on Netflix.
+
+------------------------------------------------------------
+
+5. Find All TV Shows with More Than 5 Seasons
+
+Business Problem:
+Identify highly successful and long-running TV Shows available on Netflix.
+
+------------------------------------------------------------
+
+6. Count the Number of Content Items in Each Genre
+
+Business Problem:
+Analyze genre distribution and identify the most popular genres on Netflix.
+
+------------------------------------------------------------
+
+7. Find the Top 5 Years with the Highest Number of Indian Content Releases on Netflix
+
+Business Problem:
+Determine which years witnessed the highest production and release of Indian content on Netflix.
+
+------------------------------------------------------------
+
+8. List All Documentary Movies Available on Netflix
+
+Business Problem:
+Identify documentary movies and analyze Netflix's educational and informational content offerings.
+
+------------------------------------------------------------
+
+9. Find the Top 10 Actors Who Have Appeared in the Highest Number of Movies Produced in India
+
+Business Problem:
+Identify the most frequently appearing actors in Indian Netflix movies.
+
+------------------------------------------------------------
+
+10. Categorize Content Based on Description Keywords
+
+Business Problem:
+Classify Netflix content into:
+- Bad Content → Description contains keywords such as "kill" or "violence"
+- Good Content → All other content
+
+Then count the number of titles in each category.
+
+============================================================
+
+ADVANCED ANALYSIS
+
+11. Find the Director with the Highest Average Movie Duration
+
+Business Problem:
+Identify directors who produce the longest movies on average and compare content duration patterns across directors.
+
+------------------------------------------------------------
+
+12. Find the Country with the Highest Genre Diversity
+
+Business Problem:
+Determine which countries produce the widest variety of genres available on Netflix.
+
+------------------------------------------------------------
+
+13. Calculate Year-over-Year Netflix Content Growth Percentage
+
+Business Problem:
+Analyze how Netflix's content library has grown over time and identify periods of rapid expansion.
+
+------------------------------------------------------------
+
+14. Find Directors Who Have Created Both Movies and TV Shows
+
+Business Problem:
+Identify versatile directors who have worked across multiple content formats on Netflix.
+
+------------------------------------------------------------
+
+15. Find the Most Dominant Rating in Each Country
+
+Business Problem:
+Determine the most common audience rating category for content produced in each country and analyze regional content preferences.
