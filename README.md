@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="300">
+</p>
+
+<h1 align="center">Netflix Data Analysis using SQL</h1>
+
+<p align="center">
+  SQL • PostgreSQL • Data Analysis • Business Insights
+</p>
+
+---
+
+## Project Overview
+
+This project analyzes Netflix Movies and TV Shows data using PostgreSQL.
 # Netflix Data Analysis using SQL
 
 ## Project Overview
